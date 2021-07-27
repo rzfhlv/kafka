@@ -3,7 +3,7 @@
 npm install
 ```
 
-### You have install docker first
+### You have to install docker first
 ```
 docker-compose up -d
 ```
